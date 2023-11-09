@@ -1,1 +1,1 @@
-Risk management code examples have moved to [https://github.com/metaapi/metaapi-javascript-sdk/tree/master/examples/riskManagement](https://github.com/metaapi/metaapi-javascript-sdk/tree/master/examples/riskManagement)
+Risk management code examples have moved to [https://github.com/metaapi/metaapi-javascript-sdk/tree/master/examples](https://github.com/metaapi/metaapi-javascript-sdk/tree/master/examples)
