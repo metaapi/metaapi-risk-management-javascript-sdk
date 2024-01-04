@@ -9,3 +9,6 @@ package-lock.json
 .env
 .metaapi
 test.log
+lib
+development.md
+.gitlab-ci.yml

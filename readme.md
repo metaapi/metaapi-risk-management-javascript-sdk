@@ -2,7 +2,7 @@
 
 **MetaApi risk management SDK documentation has moved to [https://github.com/metaapi/metaapi-javascript-sdk/tree/master/docs/riskManagement.md](https://github.com/metaapi/metaapi-javascript-sdk/tree/master/docs/riskManagement.md)**
 
-**MetaApi risk management SDK is now released as a part of MetaApi SDK ([https://github.com/metaapi/metaapi-javascript-sdk](https://github.com/metaapi/metaapi-javascript-sdk/)).**
+**MetaApi risk management SDK is now released as a part of MetaApi SDK ([link](https://github.com/metaapi/metaapi-javascript-sdk/)).**
 
 MetaApi risk management API is a cloud API for executing trading challenges and competitions. You can use this API for e.g. if you want to launch a proprietary trading company like FTMO. The API is also useful for trading firms/teams which have to enforce trading risk restrictions.
 
